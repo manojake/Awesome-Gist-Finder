@@ -17,4 +17,5 @@ Launches the test runner in the interactive watch mode.
 - Add Pagination so that all the data does not have to be fetched in a single call. The gist api supports pagination
 - Add Error handling component(Flashing Error) so that errors in the app can be dispalyed
 - Add tests for reducer slices
-- Add loading component so that the end user knows that the data is being fetched 
+- Add more test cases for components
+- Add loading component/placeholder preview so that the user knows that the data is being fetched 
